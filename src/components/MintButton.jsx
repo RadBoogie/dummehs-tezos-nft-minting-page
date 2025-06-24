@@ -1,3 +1,13 @@
+/**
+ * @file MintButton.js
+ * @author Richard Moore <https://github.com/RadBoogie>
+ * @description React component for minting NFTs on the Tezos blockchain.
+ * @project Tezos Dummehs NFT Minting Page
+ * @date Created June 2022
+ * @license MIT License
+ * @see https://blog.radboogie.com
+ */
+
 import "../index.css";
 import {
     connectWallet,

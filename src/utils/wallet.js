@@ -1,3 +1,13 @@
+/**
+ * @file wallet.js
+ * @author Richard Moore <https://github.com/RadBoogie>
+ * @description Utility functions for Tezos wallet integration using Taquito and Beacon Wallet.
+ * @project Dummehs Tezos NFT Minting Page
+ * @date Created June 2022
+ * @license MIT License
+ * @see https://blog.radboogie.com
+ */
+
 import { TezosToolkit } from "@taquito/taquito";
 import { BeaconWallet } from "@taquito/beacon-wallet";
 import { NetworkType } from "@airgap/beacon-sdk";

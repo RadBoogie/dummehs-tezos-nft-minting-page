@@ -1,3 +1,13 @@
+/**
+ * @file Navbar.jsx
+ * @author Richard Moore <https://github.com/RadBoogie>
+ * @description React component for the navigation bar with wallet connection functionality for the Tezos NFT minting page.
+ * @project Dummehs Tezos NFT Minting Page
+ * @date Created June 2022
+ * @license MIT License
+ * @see https://blog.radboogie.com
+ */
+
 import "../index.css";
 import {
   connectWallet,

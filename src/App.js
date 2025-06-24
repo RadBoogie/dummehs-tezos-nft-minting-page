@@ -2,7 +2,7 @@
  * @file App.js
  * @author Richard Moore <https://github.com/RadBoogie>
  * @description Webpage for minting of Dummehs NFTs on the Tezos Blockchain.
- * @project Tezos NFT Minting Page
+ * @project Dummehs Tezos NFT Minting Page
  * @date Created June 2022
  * @license MIT License
  * @see https://blog.radboogie.com
